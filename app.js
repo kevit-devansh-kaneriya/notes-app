@@ -7,5 +7,5 @@
 // console.log(name)
 
 const getNotes = require('./notes')
-const message = getNotes('Your notes')
+const message = getNotes()
 console.log(message)
