@@ -29,7 +29,7 @@ yargs.command({
       type:'string'
     },
     body:{
-      describe:'Note Body',
+      describe:'Note body',
       demandOption:true,
       type:'string'
     },
